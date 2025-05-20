@@ -343,6 +343,7 @@ h2 {
     #navbar {
         flex-direction: column;
         gap: 10px;
+        width: 100%;
     }
 
     #movies-container, .trending-container {

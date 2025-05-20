@@ -1,4 +1,4 @@
-const apiKey = '04110e28014965996aff8048eca89279';
+const apiKey = 'your-imdb-apiKey';
 
 const genreUrl = `https://api.themoviedb.org/3/genre/movie/list?api_key=${apiKey}&language=en`;
 const movieUrl = `https://api.themoviedb.org/3/discover/movie?api_key=${apiKey}&language=en-US&page=`;
